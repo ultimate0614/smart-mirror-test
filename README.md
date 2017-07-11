@@ -1,3 +1,6 @@
+$ cat README.md
+pro_git
+
 # Raspberry Pi 3 Personal Assistant
 
 Basic voice activated app created for [Raspberry Pi 3](https://www.raspberrypi.org) with [NodeJS](https://nodejs.org) + [Electron](http://electron.atom.io/). Uses [Annyang](https://www.talater.com/annyang/) and [Responsive Voice](http://responsivevoice.org/) JavaScript libraries.
@@ -75,3 +78,6 @@ add this .sh (script) to startup
 add the following line:
   /home/pi/personal-assistant.sh &
 ```
+=======
+# smart-mirror-test
+>>>>>>> 1b606b4b64ec5eb78c4aed0fe435d322e7bb40c8
